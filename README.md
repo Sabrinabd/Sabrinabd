@@ -4,10 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sabrina&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%26%20AI%20Enthusiast&descSize=22&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+digital+experiences+%F0%9F%A4%96;Passionate+about+Web+%26+AI+%F0%9F%9A%80;Always+learning%2C+always+creating+%E2%9C%A8;Open+to+collaborate+on+cool+projects+%F0%9F%91%AF" alt="Typing SVG" />
-</a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+digital+experiences+%F0%9F%A4%96;Passionate+about+Web+%26+AI+%F0%9F%9A%80;Always+learning%2C+always+creating+%E2%9C%A8;Open+to+collaborate+on+cool+projects+%F0%9F%91%AF" alt="Typing SVG" />
 <br/>
 
 
@@ -44,19 +41,19 @@ class Sabrina:
 
 <div align="center">
 
-### 🌐 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,sass&theme=dark" />
 
-### ⚙️ Backend & DevOps
+### Backend & DevOps
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,python,docker,kubernetes,linux,git&theme=dark" />
 
-### 🗄️ Databases
+###  Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,mariadb&theme=dark" />
 
-### 🤖 AI & Data Science
+###  AI & Data Science
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 
-### 🛠️ Tools
+###  Tools
 <img src="https://skillicons.dev/icons?i=vscode,postman,arduino,matlab,kotlin,c&theme=dark" />
 
 </div>
@@ -65,18 +62,7 @@ class Sabrina:
 
 
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrinabd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinabd&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinabd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
-
-</div>
-
----
 
 
 
@@ -99,7 +85,7 @@ class Sabrina:
 
 <br/><br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
 
 </div>
 
