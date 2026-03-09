@@ -1,13 +1,7 @@
 <div align="center">
 
-## 🤖 Sabrina
-### Web Developer & AI Enthusiast
-
-*Building intelligent digital experiences 🚀 · Web & AI 🤖 · Always learning ✨*
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sabrina&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%26%20AI%20Enthusiast&descSize=22&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
 </div>
-
----
 
 ## About Me
 ```python
