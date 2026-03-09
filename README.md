@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- HEADER CAPSULE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sabrina&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%26%20AI%20Enthusiast&descSize=22&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+digital+experiences+%F0%9F%A4%96;Passionate+about+Web+%26+AI+%F0%9F%9A%80;Always+learning%2C+always+creating+%E2%9C%A8;Open+to+collaborate+on+cool+projects+%F0%9F%91%AF" alt="Typing SVG" />
-<br/>
+## 🤖 Sabrina
+### Web Developer & AI Enthusiast
 
+*Building intelligent digital experiences 🚀 · Web & AI 🤖 · Always learning ✨*
 
 </div>
 
 ---
 
-##  About Me
-
+## About Me
 ```python
 class Sabrina:
     name       = "Sabrina"
@@ -36,7 +33,7 @@ class Sabrina:
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,33 +43,24 @@ class Sabrina:
 ### Backend & DevOps
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,python,docker,kubernetes,linux,git&theme=dark" />
 
-###  Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,mariadb&theme=dark" />
 
-###  AI & Data Science
+### AI & Data Science
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 
-###  Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=vscode,postman,arduino,matlab,kotlin,c&theme=dark" />
 
 </div>
 
 ---
 
-
-
-
-
-
-
-
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabrinabd&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
-
-
 
 <div align="center">
 
@@ -82,11 +70,4 @@ class Sabrina:
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sabrinabd)
 
-<br/><br/>
-
-
-
 </div>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
