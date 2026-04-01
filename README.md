@@ -14,13 +14,13 @@ class Sabrina:
     contact    = "sabbd9902@gmail.com"
     
     def mission(self):
-        return "Creating innovative & intelligent digital experiences 🚀"
+        return "Creating innovative & intelligent digital experiences "
     
     def currently(self):
         return {
             "learning"    : ["Advanced AI/ML", "LLMs", "Cloud Architecture"],
             "building"    : "Something awesome... 👀",
-            "open_to"     : "Collaborations on Web & AI projects 🤝"
+            "open_to"     : "Collaborations on Web & AI projects "
         }
     
     def fun_fact(self):
@@ -52,9 +52,7 @@ class Sabrina:
 
 ---
 
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabrinabd&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
+
 
 ---
 
